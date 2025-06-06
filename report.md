@@ -26,3 +26,14 @@ Since the roots of $P_n$ are all real and unique, it is easy to numerically comp
 ## Gaussian Quadrature
 
 (Frank)
+
+Legendre Polynomials are the orthogonal polynomials on the interval $[-1,1]$. Up to scalar multiples, the sequence $(P_k)_{k=0}^\infty$, where $P_k$ is of degree $k$ and orthogonal to polynomials of all lower degree, is unique.
+We can compute them using the Bonnet recursion formula
+
+$$(n+1)P_{n+1}(x) = (2n+1) x P_n(x) - nP_{n-1}(x),$$
+
+where we can take $P_0(x) = 1$ and $P_1(x) = x$. This sequence is scaled so that $P(1)$ is always $1$.
+
+> [!NOTE]
+> I think we need to show why this is orthogonal.
+
