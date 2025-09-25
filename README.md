@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ux1YdbJF)
 # SE-for-Sci -- Homework 2
 
 This assignment will explore a toy use case of `git` as a version control tool for scientific computing. Each part will have at most one short-answer question, which should be written in a file called `responses.txt` in the root directory of the repository. You may commit this file as you go, or you may opt to commit all of your responses at the end -- grading will not be affected by this choice. There is no minimum on what you are expected to write.
